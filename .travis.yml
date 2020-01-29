@@ -4,7 +4,7 @@ python:
   - "3.8"
 # command to install dependencies
 script:
-  - python travis fist.py
+  - python "travis fist.py"
 branches:
   only:
     - master
